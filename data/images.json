@@ -1,0 +1,22 @@
+[
+  {
+    "id": "hello",
+    "sanskrit": "smthg",
+    "transliteration": "hello",
+    "translation": "smthgmore",
+    "difficulty": "easy",
+    "category": "idk",
+    "tags": [
+      "hello",
+      "howareyou"
+    ],
+    "usageTargets": [
+      "pictionary"
+    ],
+    "otherNames": [],
+    "imageUrl": "https://cdn.jsdelivr.net/gh/LLOKAI/sanskrit-assets@main/images/hello.png",
+    "audioUrl": "https://cdn.jsdelivr.net/gh/LLOKAI/sanskrit-assets@main/audio/hello.wav",
+    "createdAt": "2026-03-11T15:35:07.300Z",
+    "updatedAt": "2026-03-11T15:35:07.300Z"
+  }
+]
