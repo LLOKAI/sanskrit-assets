@@ -18,5 +18,22 @@
     "audioUrl": "https://cdn.jsdelivr.net/gh/LLOKAI/sanskrit-assets@main/audio/hello.wav",
     "createdAt": "2026-03-11T15:35:07.300Z",
     "updatedAt": "2026-03-11T15:35:07.300Z"
+  },
+  {
+    "id": "in",
+    "sanskrit": "filled",
+    "transliteration": "in",
+    "translation": "filledin",
+    "difficulty": "easy",
+    "tags": [],
+    "usageTargets": [
+      "pictionary",
+      "zatam"
+    ],
+    "otherNames": [],
+    "imageUrl": "https://cdn.jsdelivr.net/gh/LLOKAI/sanskrit-assets@main/images/in.png",
+    "audioUrl": "",
+    "createdAt": "2026-03-11T16:51:34.047Z",
+    "updatedAt": "2026-03-11T16:51:34.047Z"
   }
 ]
