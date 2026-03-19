@@ -52,5 +52,17 @@
     "audioUrl": "",
     "createdAt": "2026-03-19T20:11:44.268Z",
     "updatedAt": "2026-03-19T20:11:44.268Z"
+  },
+  {
+    "id": "id",
+    "word": "word",
+    "transliteration": "word-translit",
+    "translation": "word-eng",
+    "difficulty": "easy",
+    "imageSrc": "https://cdn.jsdelivr.net/gh/LLOKAI/sanskrit-assets@main/images/id.jpg",
+    "audioSrc": "",
+    "otherNames": [],
+    "createdAt": "2026-03-19T20:29:36.605Z",
+    "updatedAt": "2026-03-19T20:29:36.605Z"
   }
 ]
