@@ -35,5 +35,22 @@
     "audioUrl": "",
     "createdAt": "2026-03-11T16:51:34.047Z",
     "updatedAt": "2026-03-11T16:51:34.047Z"
+  },
+  {
+    "id": "smthg-translit",
+    "sanskrit": "smthg",
+    "transliteration": "smthg-translit",
+    "translation": "something",
+    "difficulty": "hard",
+    "tags": [],
+    "usageTargets": [
+      "pictionary",
+      "zatam"
+    ],
+    "otherNames": [],
+    "imageUrl": "https://cdn.jsdelivr.net/gh/LLOKAI/sanskrit-assets@main/images/smthg-translit.jpeg",
+    "audioUrl": "",
+    "createdAt": "2026-03-19T20:11:44.268Z",
+    "updatedAt": "2026-03-19T20:11:44.268Z"
   }
 ]
