@@ -12,18 +12,6 @@
     "updatedAt": "2026-03-19T20:50:10.346Z"
   },
   {
-    "id": "in",
-    "word": "filled",
-    "transliteration": "in",
-    "translation": "filledin",
-    "difficulty": "easy",
-    "imageSrc": "https://raw.githubusercontent.com/LLOKAI/sanskrit-assets/main/images/in.png",
-    "audioSrc": "",
-    "otherNames": [],
-    "createdAt": "2026-03-11T16:51:34.047Z",
-    "updatedAt": "2026-03-19T20:50:10.346Z"
-  },
-  {
     "id": "smthg-translit",
     "word": "smthg",
     "transliteration": "smthg-translit",
