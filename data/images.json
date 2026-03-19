@@ -1,57 +1,39 @@
 [
   {
     "id": "hello",
-    "sanskrit": "smthg",
+    "word": "smthg",
     "transliteration": "hello",
     "translation": "smthgmore",
     "difficulty": "easy",
-    "category": "idk",
-    "tags": [
-      "hello",
-      "howareyou"
-    ],
-    "usageTargets": [
-      "pictionary"
-    ],
+    "imageSrc": "https://raw.githubusercontent.com/LLOKAI/sanskrit-assets/main/images/hello.png",
+    "audioSrc": "https://raw.githubusercontent.com/LLOKAI/sanskrit-assets/main/audio/hello.wav",
     "otherNames": [],
-    "imageUrl": "https://cdn.jsdelivr.net/gh/LLOKAI/sanskrit-assets@main/images/hello.png",
-    "audioUrl": "https://cdn.jsdelivr.net/gh/LLOKAI/sanskrit-assets@main/audio/hello.wav",
     "createdAt": "2026-03-11T15:35:07.300Z",
-    "updatedAt": "2026-03-11T15:35:07.300Z"
+    "updatedAt": "2026-03-19T20:50:10.346Z"
   },
   {
     "id": "in",
-    "sanskrit": "filled",
+    "word": "filled",
     "transliteration": "in",
     "translation": "filledin",
     "difficulty": "easy",
-    "tags": [],
-    "usageTargets": [
-      "pictionary",
-      "zatam"
-    ],
+    "imageSrc": "https://raw.githubusercontent.com/LLOKAI/sanskrit-assets/main/images/in.png",
+    "audioSrc": "",
     "otherNames": [],
-    "imageUrl": "https://cdn.jsdelivr.net/gh/LLOKAI/sanskrit-assets@main/images/in.png",
-    "audioUrl": "",
     "createdAt": "2026-03-11T16:51:34.047Z",
-    "updatedAt": "2026-03-11T16:51:34.047Z"
+    "updatedAt": "2026-03-19T20:50:10.346Z"
   },
   {
     "id": "smthg-translit",
-    "sanskrit": "smthg",
+    "word": "smthg",
     "transliteration": "smthg-translit",
     "translation": "something",
     "difficulty": "hard",
-    "tags": [],
-    "usageTargets": [
-      "pictionary",
-      "zatam"
-    ],
+    "imageSrc": "https://raw.githubusercontent.com/LLOKAI/sanskrit-assets/main/images/smthg-translit.jpeg",
+    "audioSrc": "",
     "otherNames": [],
-    "imageUrl": "https://cdn.jsdelivr.net/gh/LLOKAI/sanskrit-assets@main/images/smthg-translit.jpeg",
-    "audioUrl": "",
     "createdAt": "2026-03-19T20:11:44.268Z",
-    "updatedAt": "2026-03-19T20:11:44.268Z"
+    "updatedAt": "2026-03-19T20:50:10.346Z"
   },
   {
     "id": "id",
@@ -59,10 +41,10 @@
     "transliteration": "word-translit",
     "translation": "word-eng",
     "difficulty": "easy",
-    "imageSrc": "https://cdn.jsdelivr.net/gh/LLOKAI/sanskrit-assets@main/images/id.jpg",
+    "imageSrc": "https://raw.githubusercontent.com/LLOKAI/sanskrit-assets/main/images/id.jpg",
     "audioSrc": "",
     "otherNames": [],
     "createdAt": "2026-03-19T20:29:36.605Z",
-    "updatedAt": "2026-03-19T20:29:36.605Z"
+    "updatedAt": "2026-03-19T20:50:10.346Z"
   }
 ]
